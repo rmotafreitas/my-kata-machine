@@ -1,1 +1,1 @@
-> This is my walkthorugh throuth the ThePrimeagen course "https://frontendmasters.com/courses/algorithms/"
+This is my walkthrough through the ThePrimeagen algorithms course
